@@ -1,5 +1,6 @@
 {
   "compilerOptions": {
+    "useUnknownInCatchVariables": false,
     "module": "commonjs",
     "esModuleInterop": true,
     "allowSyntheticDefaultImports": true,
